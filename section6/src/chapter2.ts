@@ -1,5 +1,5 @@
 /**
- * 접슨 제어자
+ * 접근 제어자
  * access modigier
  * => public private protected
  */
