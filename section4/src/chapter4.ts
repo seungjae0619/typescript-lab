@@ -19,7 +19,7 @@ function isDog(animal: Animal): animal is Dog {
 }
 
 function isCat(animal: Animal): animal is Cat {
-  return (animal as Cat).isScratch !== undefined;
+  return (animal as Cat).isScratch !== undefined; 
 }
 
 function warning(animal: Animal) {
